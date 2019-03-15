@@ -11,5 +11,6 @@ public class NoBullying {
     System.out.println("Passo 8 Manter-se fora de grupos de zoação.");
     System.out.println("Passo 9 Ter empatia pelo próximo.");
     System.out.println("Passo 10 Não julgar as pessoas pelos seus atos, apenas ouvi-las");
+    System.out.println("FIM DO PROGRAMA");
   }
 }
