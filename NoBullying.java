@@ -5,5 +5,6 @@ public class NoBullying {
     System.out.println("Abordar o tema em escolas");
     System.out.println("Conversar com pessoas que sofrem Bullying");
     System.out.println("Realizar campanhas anti-bullying");
+    System.out.println("Mais segurança nas escolas, aumentar ronda-escolar.");
   }
 }
