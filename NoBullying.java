@@ -8,5 +8,6 @@ public class NoBullying {
     System.out.println("Mais segurança nas escolas, aumentar ronda-escolar.");
     System.out.println("Respeitar as diferenças das pessoas");
     System.out.println("Conversar com os responsáveis, caso seja vítima");
+    System.out.println("Manter-se fora de grupos de zoação.");
   }
 }
