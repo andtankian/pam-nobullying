@@ -10,5 +10,6 @@ public class NoBullying {
     System.out.println("Conversar com os responsáveis, caso seja vítima");
     System.out.println("Manter-se fora de grupos de zoação.");
     System.out.println("Ter empatia pelo próximo.");
+    System.out.println("Não julgar as pessoas pelos seus atos, apenas ouvi-las");
   }
 }
